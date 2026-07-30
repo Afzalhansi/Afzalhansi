@@ -62,7 +62,7 @@ I enjoy designing scalable automation frameworks, identifying critical defects, 
 ### 🛠️ Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Google-Antigravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
+![Google Antigravity IDE](https://img.shields.io/badge%20Antigravity%20IDE-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
