@@ -26,9 +26,12 @@
 
 ## 💫 About Me
 
-I'm a **QA Automation Engineer** passionate about delivering high-quality software through **Manual & Automation Testing**.
+Hi I'm a **QA Automation Engineer** passionate about building reliable software through Manual & Automation Testing. I specialize in designing automation solutions, creating effective test strategies, identifying critical defects, and improving software quality through modern QA practices.
 
-I enjoy designing scalable automation frameworks, identifying critical defects, and integrating modern **AI tools** into testing workflows to improve productivity and software reliability.
+Experienced with **Selenium, Java, Playwright, TestNG, Cucumber, API Testing, Postman, REST Assured, SQL, TypeScript, Python, and CI/CD** workflows. I am also exploring AI-driven testing approaches by learning and implementing solutions using **LangChain, LangGraph, Groq API, and Llama** models to understand how AI can enhance test automation, productivity, and quality engineering workflows.
+
+Focused on continuous learning, automation excellence, and evolving towards modern SDET practices by combining software testing with AI-powered solutions.
+
 
 # 💻 Tech Stack
 
