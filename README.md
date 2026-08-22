@@ -26,23 +26,13 @@
 
 # 🚀 About Me
 
-I'm a **Cloud & DevOps Engineer** focused on building reliable, automated, and scalable software delivery environments.
+# Hi 👋, I'm Abdul Basit Hansi
 
-I work with **AWS, Azure, Linux, Bash, Git, Docker, Kubernetes, Jenkins, GitHub Actions, and CI/CD pipelines**, with a strong interest in cloud infrastructure, deployment automation, monitoring, and DevOps practices.
+### QA DevOps Engineer | Continuous Quality & Cloud Infrastructure Automation
 
-My background in **QA Automation** gives me an additional perspective on software reliability. I have experience with **Selenium, Playwright, Java, TestNG, API Testing, Postman, REST Assured, SQL, and automation frameworks**, allowing me to understand both the infrastructure and quality sides of the software delivery lifecycle.
+I am an experienced **Test Automation Engineer** transitioning into a hybrid **DevOps Engineer** role, specializing in the architecture, automation, and stability of modern software delivery environments. My technical focus centers on bridging the gap between infrastructure stability and application quality by embedding comprehensive automated testing networks directly into live cloud deployment pipelines.
 
-Currently, I'm strengthening my skills in:
-
-- ☁️ Cloud Infrastructure & AWS
-- 🔧 DevOps & CI/CD Automation
-- 🐧 Linux & Bash Scripting
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes & Container Orchestration
-- 🔄 GitHub Actions & Jenkins
-- 📊 Monitoring & Observability
-- 🧪 Test Automation & Quality Engineering
-- 🤖 AI-assisted DevOps & Software Testing
+By combining an extensive background in automated quality engineering with cloud-native operations, I build resilient CI/CD pipelines, automate complex cloud infrastructure deployments, and implement robust system telemetry.
 
 My goal is to build **automated, scalable, secure, and reliable cloud environments** while continuously improving software delivery processes.
 
