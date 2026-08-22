@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Abdul Basit Hansi
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux;Docker+%7C+Kubernetes+%7C+CI%2FCD;DevOps+Automation+%26+Infrastructure;QA+Automation+%7C+SDET;Building+Reliable+Cloud+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Test+Automation+Engineer;AWS+%7C+Azure+%7C+Linux;Docker+%7C+Kubernetes+%7C+CI%2FCD;DevOps+%26+Test+Automation;Building+Reliable+Cloud+Systems" alt="Typing SVG"/>
 
 ### ☁️ Cloud & DevOps Engineer | Automation Enthusiast | QA Automation Background
 
