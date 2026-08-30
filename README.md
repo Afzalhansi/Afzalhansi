@@ -100,7 +100,6 @@ I'm exploring how **AI and LLMs can improve DevOps, software testing, automation
 
 Areas I'm exploring:
 
-- AI-assisted test generation
 - Intelligent test automation
 - LLM-powered developer tools
 - AI-assisted DevOps workflows
