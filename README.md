@@ -6,7 +6,7 @@
 
 ### ☁️ Cloud & DevOps Engineer | Automation Enthusiast | QA Automation Background
 
-📍 Dubai, United Arab Emirates
+📍 Dubai, United Arab Emirates.
 
 <p align="center">
   <a href="mailto:abdulhansi667@gmail.com">
